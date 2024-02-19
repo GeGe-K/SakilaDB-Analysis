@@ -11,9 +11,9 @@ The Sakila sample database is a database designed to represent a DVD rental stor
 As the analyst/BI expert, you are required to answer the following questions in Tableau to help the leads make better-informed decisions:
 1. A geographical view of the distribution of stores
 2. At what time does which rental store has the highest traffic?
-3. who were the top 15 actors/actresses
-4. which months should we bring in the horror films
-5. what is the total payment for each customer
+3. Who were the top 15 actors/actresses?
+4. Which months should we bring in the horror films?
+5. What is the total payment for each customer?
 
 ## :computer: Setup
 **Note**: If using the __trial version of Tableau desktop__ connect to the __SQL database with the credentials below__.
@@ -32,4 +32,4 @@ Gloria Givondo
 
 ## License
 The content of this site is license under the MIT license
-Copyright (c) 2018 **Gloria**
+Copyright (c) 2024 **Gloria**
