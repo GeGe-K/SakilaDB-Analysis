@@ -17,7 +17,7 @@ As the analyst/BI expert, you are required to answer the following questions in 
 
 ## :computer: Setup
 **Note**: If using the __trial version of Tableau desktop__ connect to the __SQL database with the credentials below__.
-If using the the __Tableau Public you cannot connect toe the SQL database__ but can obtain the files using the __Dataset Link below__.
+If using the the __Tableau Public you cannot connect to the SQL database__ but can obtain the files using the __Dataset Link below__.
 
 SQL database
 HOST: 20.218.241.192
